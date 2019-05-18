@@ -4,9 +4,11 @@ here /week2/tree/master/office
        (html:week2/office/combine.html,js:week2/office/myscript.js)
        
        
-  here week2/office/firstreact.js
-             i done todolist project with reactjs
+here week2/office/firstreact.js
+             
+ i done todolist project with reactjs
     
     
-   here week2/src/App.js
-             i done  reactjs task (for learning props)
+ here week2/src/App.js
+            
+ i done  reactjs task (for learning props)
