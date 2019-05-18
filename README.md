@@ -5,10 +5,8 @@ here /week2/tree/master/office
        
        
   here week2/office/firstreact.js
-  
-    i done todolist project with reactjs
+             i done todolist project with reactjs
     
     
    here week2/src/App.js
-   
-    i done  reactjs task (for learning props)
+             i done  reactjs task (for learning props)
