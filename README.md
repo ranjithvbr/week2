@@ -12,3 +12,13 @@
  3.here week2/src/App.js
             
  i done  reactjs task (for learning props)
+ 
+ 4.here /week2/tree/master/office
+   
+  i done node.js project
+  (html:week2/office/summer.html,week2/office/winter.html)
+  (nodejs:week2/office/callwintersummer.js)
+  
+ 5.here week2/office/query.js
+ 
+  i done node.js project(Query String)
