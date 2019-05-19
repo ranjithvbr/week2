@@ -16,8 +16,12 @@
  4.here /week2/tree/master/office
    
   i done node.js project
-  (html:week2/office/summer.html,week2/office/winter.html)
-  (nodejs:week2/office/callwintersummer.js)
+       (html:week2/office/summer.html,week2/office/winter.html)
+       (nodejs:week2/office/callwintersummer.js)
+       
+       two different values when open the two addresses
+       localhost:8080/summer.html
+       localhost:8080/winter.html
   
  5.here week2/office/query.js
  
